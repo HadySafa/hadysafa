@@ -18,9 +18,11 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/profile_images/1894434601403101184/tLZjRRT8_400x400.jpg" alt="laravel" width="40" height="40"/> </a>
-  <a href="https://github.com/dotnet/aspnetcore" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/.NET_Core_Logo.svg" alt="ASP.NET Core" width="40" height="40"/>
+<a href="https://github.com/dotnet/aspnetcore" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/dotnet/brand/main/logo/dotnet-logo.svg"
+       alt=".NET / ASP.NET Core" width="40" height="40"/>
 </a>
+
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   
  <h2 align="left">Connect with me</h2>
