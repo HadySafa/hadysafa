@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hady</h1>
 <h3 align="center">Software Developer | <b>Bachelor of Science in Computer Engineering Graduate</b></h3>
 
-- I am currently specializing in **full-stack development, with a particular focus on backend development.**
-
 - My projects are available [here.](https://github.com/HadySafa?tab=repositories)
 
 - Reach me via email at **hadyabdallahsafa@gmail.com**
